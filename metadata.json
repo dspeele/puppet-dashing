@@ -1,0 +1,14 @@
+{
+  "name": "dspeele-dashing",
+  "version": "0.1.0",
+  "author": "dspeele",
+  "summary": "Module to install and start Dashing dashboard",
+  "license": "Apache 2.0",
+  "source": "https://github.com/dspeele/puppet-dashing.git",
+  "project_page": "https://github.com/dspeele/puppet-dashing",
+  "issues_url": "https://github.com/dspeele/puppet-dashing/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
